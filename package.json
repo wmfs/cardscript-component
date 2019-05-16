@@ -1,0 +1,63 @@
+{
+  "name": "@wmfs/cardscript-component",
+  "version": "0.0.0-semantically-released",
+  "description": "Cardscript wrapped as a Quasar Component",
+  "main": "Cardscript.vue",
+  "scripts": {
+    "lint": "standard",
+    "test": "echo No Tests, sorry",
+    "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
+    "semantic-release": "semantic-release"
+  },
+  "author": "Meena Hoda",
+  "keywords": [
+    "vue",
+    "cardscript",
+    "component",
+    "quasar"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wmfs/cardscript-component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wmfs/cardscript-component/issues"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@wmfs/cardscript-examples": "1.6.0",
+    "@wmfs/cardscript-extract-defaults": "1.5.0",
+    "@wmfs/cardscript-extract-lists": "1.4.0",
+    "@wmfs/cardscript-table-of-contents": "1.1.0",
+    "@wmfs/cardscript-to-quasar": "1.47.0",
+    "@wmfs/cardscript-to-vuelidate": "1.5.0",
+    "@wmfs/cardscript-vue-sdk": "1.1.1",
+    "@wmfs/quasar-map-mapbox": "1.5.1",
+    "dottie": "2.0.1",
+    "lodash.template": "4.4.0",
+    "video.js": "7.5.4",
+    "vue-signature-pad": "1.1.9-beta.1",
+    "vue-video-player": "5.0.2",
+    "vuelidate": "0.7.4"
+  },
+  "devDependencies": {
+    "chai": "4.2.0",
+    "codecov": "3.1.0",
+    "conventional-changelog-metahub": "2.0.2",
+    "cz-conventional-changelog": "2.1.0",
+    "mocha": "5.2.0",
+    "nyc": "13.1.0",
+    "semantic-release": "15.13.3",
+    "standard": "12.0.1",
+    "@semantic-release/changelog": "3.0.2",
+    "@semantic-release/git": "7.0.8"
+  }
+}
