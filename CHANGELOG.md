@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/wmfs/cardscript-component/compare/v1.1.0...v1.2.0) (2019-11-21)
+
+
+### 🛠 Builds
+
+* **deps:** update many deps ([878e827](https://github.com/wmfs/cardscript-component/commit/878e827adef3b25109bd95192e75dabde5077822))
+
 # [1.1.0](https://github.com/wmfs/cardscript-component/compare/v1.0.0...v1.1.0) (2019-06-11)
 
 
