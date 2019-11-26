@@ -67,7 +67,8 @@ export default {
             return {
               data: content.data,
               lists: content.lists,
-              internals: content.internals
+              internals: content.internals,
+              invalidFields: {}
             }
           },
           methods: {
