@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/wmfs/cardscript-component/compare/v1.3.0...v1.3.1) (2019-11-26)
+
+
+### 🐛 Bug Fixes
+
+* add stub data for invalidFields ([3417ed4](https://github.com/wmfs/cardscript-component/commit/3417ed472a63d3d0973907233a3e753494cd3429))
+
 # [1.3.0](https://github.com/wmfs/cardscript-component/compare/v1.2.0...v1.3.0) (2019-11-26)
 
 
