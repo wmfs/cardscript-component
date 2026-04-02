@@ -42,7 +42,7 @@
     "@wmfs/cardscript-vue-sdk": "1.2.1",
     "@wmfs/quasar-map-mapbox": "1.20.1",
     "dottie": "2.0.2",
-    "lodash.template": "4.5.0",
+    "lodash.template": "4.18.1",
     "video.js": "7.10.1",
     "vue-signature-pad": "2.0.2",
     "vue-video-player": "5.0.2",
